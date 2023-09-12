@@ -21,18 +21,13 @@
 ### Image Input Interface
 ![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/blob/main/1.jpg)
 
+![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/blob/main/2.jpg)
+
+![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/blob/main/3.jpg)
+
+![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/blob/main/4.jpg)
 
 
-![image_input_demo]([https://github.com/ImaneBirJmel/web_app_detection/edit/main/1.jpg)
-
-##
-![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/edit/main/2.jpg)
-
-###
-![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/edit/main/3.jpg)
-
-###
-![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/edit/main/4.jpg)
 
 
 
