@@ -19,16 +19,16 @@
 
 ## Interactive Interface
 ### Image Input Interface
-![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/blob/main/1.jpg)
+ ![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/blob/main/1.jpg)
 
 ### Accessories detection
-![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/blob/main/2.jpg)
+ ![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/blob/main/2.jpg)
 
 ### Case 1 : All the accessories are well sequenced
-![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/blob/main/3.jpg)
+ ![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/blob/main/3.jpg)
 
 ### Case 2 : There are some accessories that are poorly sequenced
-![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/blob/main/4.jpg)
+ ![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/blob/main/4.jpg)
 
 
 
