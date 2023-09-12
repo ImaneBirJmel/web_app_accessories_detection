@@ -19,6 +19,10 @@
 
 ## Interactive Interface
 ### Image Input Interface
+![image_input_demo](https://github.com/ImaneBirJmel/web_app_detection/blob/main/image_1_ok.jpg)
+
+
+
 ![image_input_demo]([https://github.com/ImaneBirJmel/web_app_detection/edit/main/1.jpg)
 
 ##
