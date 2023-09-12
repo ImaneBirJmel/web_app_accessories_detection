@@ -19,7 +19,16 @@
 
 ## Interactive Interface
 ### Image Input Interface
-![image_input_demo](https://github.com/ImaneBirJmel/accessories_detection/blob/main/test.jpg)
+![image_input_demo](https://github.com/ImaneBirJmel/accessories_detection/blob/main/1.jpg)
+
+##"
+![image_input_demo](https://github.com/ImaneBirJmel/accessories_detection/blob/main/2.jpg)
+
+###
+![image_input_demo](https://github.com/ImaneBirJmel/accessories_detection/blob/main/3.jpg)
+
+###
+![image_input_demo](https://github.com/ImaneBirJmel/accessories_detection/blob/main/4.jpg)
 
 ### Webcam Input Interface
 ![webcam_input_demo](https://github.com/ImaneBirJmel/accessories_detection/blob/main/test.jpg)
