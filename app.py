@@ -48,6 +48,6 @@ if source_selectbox == config.SOURCES_LIST[0]: # Image
 
 elif source_selectbox == config.SOURCES_LIST[1]: # Webcam
     infer_uploaded_webcam(confidence, model)
-    seq_detection(labels, image_path)
+    
 else:
     st.error("Currently only 'Image' and 'Video' source are implemented")
