@@ -39,7 +39,7 @@ def infer_uploaded_image(conf, model):
     )
 
     # Affichez l'image téléchargée et les résultats de détection
-col1, col2 = st.columns(2)
+    col1, col2 = st.columns(2)
     labels = []
     image_path = ""
     with col1:
